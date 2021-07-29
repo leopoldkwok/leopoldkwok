@@ -11,8 +11,7 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a> </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leopoldkwok&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+![Leopoold Kwok's github stats](https://github-readme-stats.vercel.app/api?username=leopoldkwok&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldkwok&layout=compact)](https://github.com/leopoldkwok/github-readme-stats)
 
 <a href="mailto:YourEmail@gmail.com">![leopoldkwok@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
