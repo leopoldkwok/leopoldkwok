@@ -1,4 +1,5 @@
 ### Hi, I'm Leo  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![](https://komarev.com/ghpvc/?username=leopoldkwok&color=brightgreen)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=leopoldkwok.leopoldkwok)
 
 I’m a Front-end Developer working with ReactJS.
