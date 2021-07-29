@@ -4,7 +4,7 @@
 I’m a Front-end Developer working with ReactJS.
 
 - 🛠 &nbsp; I’m currently working with Javascript, React(Hooks, Context API), Drupal, Jenkins.
-- 🌱 &nbsp; I’m currently learning react testing library.
+- 🌱 &nbsp; I’m currently learning react testing library, Next.js
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
