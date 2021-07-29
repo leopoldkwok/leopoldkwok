@@ -19,10 +19,10 @@ I’m a Front-end Developer working with ReactJS.
 ![Leopoold Kwok's github stats](https://github-readme-stats.vercel.app/api?username=leopoldkwok&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldkwok&layout=compact)](https://github.com/leopoldkwok/github-readme-stats)
 
-📫  You can reach out to me at:
+📫 &nbsp; You can reach out to me at:
 
-<a href="mailto:YourEmail@gmail.com">![leopoldkwok@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
+[![Twitter Badge](https://img.shields.io/badge/-@leopoldkwok-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maddhruv)](https://twitter.com/leopoldkwok)
+[![Linkedin Badge](https://img.shields.io/badge/-leopoldkwok-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leopoldkwok/)](https://www.linkedin.com/in/leopoldkwok/)
 
 <!--
 **leopoldkwok/leopoldkwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
