@@ -1,6 +1,8 @@
-### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+### Hi, I'm Leo  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=leopoldkwok.leopoldkwok)
+
+I’m a Front-end Developer working with ReactJS.
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -13,6 +15,8 @@
 
 ![Leopoold Kwok's github stats](https://github-readme-stats.vercel.app/api?username=leopoldkwok&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldkwok&layout=compact)](https://github.com/leopoldkwok/github-readme-stats)
+
+You can reach out to me at:
 
 <a href="mailto:YourEmail@gmail.com">![leopoldkwok@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
