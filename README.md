@@ -19,6 +19,8 @@ I’m a Front-end Developer working with ReactJS.
 ![Leopoold Kwok's github stats](https://github-readme-stats.vercel.app/api?username=leopoldkwok&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldkwok&layout=compact)](https://github.com/leopoldkwok/github-readme-stats)
 
+<img src="https://github-profile-trophy.vercel.app/?username=leopoldkwok&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+
 📫 &nbsp; You can reach out to me at:
 
 [![Twitter Badge](https://img.shields.io/badge/-@leopoldkwok-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maddhruv)](https://twitter.com/leopoldkwok)
