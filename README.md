@@ -27,6 +27,17 @@ I’m a Front-end Developer working with ReactJS.
 
 <img src="https://github-profile-trophy.vercel.app/?username=leopoldkwok&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
 
+
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <br/>
+    <p align="center">
+    </p>
+    <p align="center">
+    </p>
+</details>
+
+
 📫 &nbsp; You can reach out to me at:
 
 [![Twitter Badge](https://img.shields.io/badge/-@leopoldkwok-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/maddhruv)](https://twitter.com/leopoldkwok)
