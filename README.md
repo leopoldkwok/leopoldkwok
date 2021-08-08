@@ -23,15 +23,13 @@ I’m a Front-end Developer working with ReactJS.
 ![Leopoold Kwok's github stats](https://github-readme-stats.vercel.app/api?username=leopoldkwok&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldkwok&layout=compact)](https://github.com/leopoldkwok/github-readme-stats)
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leopoldkwok&hide_border=true" />
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
-    <p>
-      <img src="https://github-profile-trophy.vercel.app/?username=leopoldkwok&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
-    </p>
     <p align="center">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leopoldkwok&hide_border=true" />
+      <img src="https://github-profile-trophy.vercel.app/?username=leopoldkwok&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
     </p>
 </details>
 
