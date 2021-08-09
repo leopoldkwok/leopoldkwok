@@ -29,8 +29,12 @@ I’m a Front-end Developer working with ReactJS.
   <br/>
     <p align="center">
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leopoldkwok&hide_border=true" />
-      <img src="https://github-profile-trophy.vercel.app/?username=leopoldkwok&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
     </p>
+    <p align="center">
+      <a href="https://github.com/leopoldkwok/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=leopoldkwok&theme=flat&column=6&margin-w=10" alt="logo" height="160" />
+       </a>
+  </p>
 </details>
 
 
