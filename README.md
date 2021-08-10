@@ -20,7 +20,6 @@ I’m a Front-end Developer working with ReactJS.
   <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/></a>
 </p>
 
-![Leopoold Kwok's github stats](https://github-readme-stats.vercel.app/api?username=leopoldkwok&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldkwok&layout=compact)](https://github.com/leopoldkwok/github-readme-stats)
 
 
@@ -28,6 +27,10 @@ I’m a Front-end Developer working with ReactJS.
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
+    
+![Leopoold Kwok's github stats](https://github-readme-stats.vercel.app/api?username=leopoldkwok&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true")
+    </p>
+   <p align="center">
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leopoldkwok&hide_border=true" />
     </p>
     <p align="center">
